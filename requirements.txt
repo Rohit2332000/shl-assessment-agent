@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+faiss-cpu
+numpy
+sentence-transformers
+langchain
+langgraph
+langchain-google-genai
+pydantic
+torch
+transformers
+huggingface-hub
